@@ -31,14 +31,14 @@ margin:0px;}
 .aboutMe{
   background-image: url('night-photograph-2183637_1920.jpg');
   background-size:cover;
-  height:920px;
+  height:600px;
   display:inline-block;
 
 }
 
 .welcome{
   background-image:url('forest-5159688_1920.jpg');
-  height:800px;
+  height:720px;
   margin-top: 0px;
   text-align: center;
 
