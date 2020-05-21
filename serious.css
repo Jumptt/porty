@@ -1,0 +1,162 @@
+*{padding:0px;
+margin:0px;}
+.header{
+  font-family: 'Caveat', cursive;
+
+}
+.header{
+  height:170px;
+  background-color: #A4C6FF;
+  margin: 0px;
+    padding: 0px;
+
+}
+.headerH1{
+  text-align: center;
+  font-size: 50px;
+}
+.menu{
+  text-align: center;
+}
+.menu li{
+  display:inline-block;
+  margin:10px;
+  background-color: white;
+  width:160px;
+
+}
+.nav{
+  box-shadow: 5px 5px;
+}
+.aboutMe{
+  background-image: url('night-photograph-2183637_1920.jpg');
+  background-size:cover;
+  height:920px;
+  display:inline-block;
+
+}
+
+.welcome{
+  background-image:url('forest-5159688_1920.jpg');
+  height:800px;
+  margin-top: 0px;
+  text-align: center;
+
+}
+.welcome h1{
+  text-align: center;
+  font-size:100px;
+  opacity:0,5;
+  color:white;
+  display:none;
+
+  }
+.aboutMe{
+  text-align: center;
+  font-size:25px;
+  display:none;
+
+}
+.aboutImg{
+  width:160px;
+  height:auto;
+  display:inline-block;
+}
+#aboutText{
+  display:inline-block;
+  color:white;
+  font-family: 'Lora', serif;
+}
+#mySkill{
+  background-image: url('banner-5190090_1920.jpg');
+  background-size: cover;
+  height:850px;
+  margin:0px;
+  text-align: center;
+  font-size:30px;
+}
+.imgPy, .imgWeb, .imgShop, .imgQuery{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.Pyimg{
+  size:60px;
+}
+#box1{
+  width:200px;
+  height:200px;
+  background-color:#999;
+}
+.height{
+  height:900px;
+  width:auto;
+  background-color: yellow;
+}
+#myWorks{
+  text-align: center;
+  font-size:30px;
+  background-image: url('compass-5137269_1920.jpg');
+  height:1300px;
+  display:block;
+}
+.welcomeH2{
+  display:none;
+  font-size:50px;
+  text-align: center;
+  color:black;
+  background-image: url('box-1472804_1280.png');
+  width:100%;
+}
+.contentsMenu{
+  text-align:center;
+  font-size:70px;
+  letter-spacing:1.1em;
+  color:white;
+}
+.testyButton{
+  background-color: lightgreen;
+  height:80px;
+  width:300px;
+  font-family: 'Lora', serif;
+  font-size:40px;
+}
+#mySkill h1{
+  font-size:70px;
+}
+.imgPy{
+  width:70px;
+  height:auto;
+  padding-left: 30px;
+}
+
+.imgWord{
+  height:150px;
+  width:auto;
+  margin-top: 30px;
+}
+.button1 p{
+  background-color: white;
+  opacity:0.6;
+  text-align: center;
+}
+
+.button2 p{
+  background-color: white;
+  opacity:0.6;
+  text-align: center;
+}
+.button3 p{
+  background-color: white;
+  opacity:0.6;
+  text-align: center;
+}
+.button4 p{
+  background-color: white;
+  opacity:0.6;
+  text-align: center;
+}
+#contactMe{
+  background-color: white;
+  opacity:0.6;
+  text-align: center;
+}
